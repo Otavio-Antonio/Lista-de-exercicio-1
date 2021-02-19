@@ -1,7 +1,7 @@
-A biblioteca <time.h> dispoe de uma classe chamada "clock_t", com ela nos podemos criar um objeto do tipo clock_t e utilizar a função
+A biblioteca <time.h> dispoe de uma função chamada "clock_t", com ela nos podemos criar uma variavel do tipo clock_t e utilizar a função
 "clock();" para realizar a medição do tempo de execução de uma determinada parte do programa. Testei nos programas das questões 13
 e 14 pois não entendi a questão 15. Ao testar percebi que ambos os resultados foram 0 segundos. Acho que devido ao numero de operações
-serem pequenas, já que testei com no maximo 50 valores. Acho que na casa dos 1000 já mostra algum tempo de execução.
+serem poucas, já que testei com no maximo 50 valores. Acho que na casa das 1000 operações já mostra algum tempo de execução satisfatorio.
 
 segue o como calcular esse tempo: 
 
