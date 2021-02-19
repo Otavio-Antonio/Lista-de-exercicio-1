@@ -1,9 +1,7 @@
-6. Assumindo que pulo[] é um vetor do tipo int, quais das seguintes expressões referenciam o
-valor do terceiro elemento do vetor?
 
-I) *(pulo + 2);	// Conteudo da posição 3
-II) *(pulo + 4);	// Conteudo da posição 5
-III) pulo + 4;	// Endereço da posição 5
-IV) pulo + 2;	// Endereço da posição 3
+I) *(pulo + 2);	  || Conteudo da posição 3
+II) *(pulo + 4);  || Conteudo da posição 5
+III) pulo + 4;    || Endereço da posição 5
+IV) pulo + 2;     ||Endereço da posição 3
 
-Portanto opção I
+Resposta:  opção I
