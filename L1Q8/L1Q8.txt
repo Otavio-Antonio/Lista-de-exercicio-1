@@ -1,0 +1,23 @@
+8. O que fazem os seguintes programas em C?
+
+a)
+int main(){
+     int vet[] = {4,9,13};
+     int i;
+     for(i=0;i<3;i++){
+          printf("%d ",*(vet+i));
+     }
+}
+
+a) O programa irá mostrar na tela os valores de cada um dos endereços do array "vet", em sequência: "4 9 13"
+
+b)
+int main(){
+     int vet[] = {4,9,13};
+     int i;
+     for(i=0;i<3;i++){
+           printf("%X ",vet+i);
+     }
+}
+
+b) O programa irá mostrar na tela os endereços de cada posição do vetor "vet" em sequência no sistema de númeração hexadecimal maiúsculo
