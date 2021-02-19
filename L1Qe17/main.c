@@ -6,6 +6,7 @@ void preencheVetor(int vet[], int n){
         scanf("%d",&vet[i]);
     }
 }
+// Função Soma!
 void somaVetor(int vet1[],int vet2[], int vetSoma[], int n){
     for(int i=0; i<n; i++){
         vetSoma[i] = vet1[i]+vet2[i];
