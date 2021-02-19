@@ -1,0 +1,7 @@
+7. Considerando a declaração int mat[4], *p, x;, quais das seguintes expressões são válidas?
+Justifique.
+
+I) p = mat + 1;	// válida: "p" é variável para endereços e "mat + 1" é um endereço
+II) p = mat++;	// inválida: não se pode incrementar um array dessa forma
+III) p = ++mat;	// inválida: não se pode incrementar um array dessa forma
+IV) x = (*mat)++;	// válida: "x" é variavel para inteiro e "(*mat)++" é o conteúdo do array mat[0] incrementado em 1 na próxima operação.
