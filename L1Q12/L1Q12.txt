@@ -1,1 +1,0 @@
-Um variável ponteiro para função armazena o endereço de memoria de uma ou mais (caso array) função. 
