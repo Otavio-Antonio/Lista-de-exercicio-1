@@ -1,0 +1,13 @@
+a)  20 	| Esperado.
+b) 29.0	| Esperado.
+c)  p 	| Esperado.
+d) e	| Esperado.
+e) p 	| Esperado. Pois o vetor passa apenas o endereço da primeira posição do vetor.
+f) e 	| Esperado. O ponteiro recebe o endereço da primeira posição d vetor na questão anterior e pula 4 posições adiante.
+g) t 	| Esperado. O ponteiro volta uma posição de acordo com a questão anterior.
+h) 31	| Esperado.
+i) 45	| Esperado.
+j) 27	| Esperado.
+l) 31	| Esperado.
+m) 45	| Esperado.
+n) 27	| Esperado.
